@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/alfredshaju7"><img src="https://img.shields.io/github/followers/NoealRajeev?label=Followers&style=social" alt="GitHub"></a>
+  <a href="https://github.com/alfredshaju7"><img src="https://img.shields.io/github/followers/alfredshaju7?label=Followers&style=social" alt="GitHub"></a>
   <a href="https://www.linkedin.com/in/alfredshaju/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn"></a>
 </p>
 
@@ -20,7 +20,7 @@
 
 - 🤝 I’m looking for help with **[specific area you need help with]**
 
-- 📫 How to reach me **noealrajeev987@gmail.com**
+- 📫 How to reach me **alfredshaju7@gmail.com**
 
 ### Skills
 
