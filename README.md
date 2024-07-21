@@ -4,9 +4,7 @@
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/alfredshaju)
-
-
+- [![LinkedIn](https://media.giphy.com/media/26tPoyDhjiJ2g7n6E/giphy.gif)](https://www.linkedin.com/in/alfredshaju)
 
 
 ## Skills
@@ -26,5 +24,3 @@
 ## Get in Touch
 
 Feel free to connect with me on LinkedIn and follow me on Instagram to stay updated with my journey!
-
-
