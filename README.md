@@ -4,7 +4,7 @@
 
 ## Connect with Me
 
-- [LinkedIn](#) <!-- www.linkedin.com/in/alfredshaju -->
+- [LinkedIn](https://www.linkedin.com/in/alfredshaju)
 
 
 
@@ -27,6 +27,4 @@
 
 Feel free to connect with me on LinkedIn and follow me on Instagram to stay updated with my journey!
 
----
 
-![GitHub Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
