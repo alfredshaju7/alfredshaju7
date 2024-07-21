@@ -4,8 +4,8 @@
 
 ## Connect with Me
 
-- [![LinkedIn](https://media.giphy.com/media/26tPoyDhjiJ2g7n6E/giphy.gif)](https://www.linkedin.com/in/alfredshaju)
-
+- [![LinkedIn](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)](https://www.linkedin.com/in/alfredshaju)
+- [Instagram](#) <!-- Insert your Instagram profile link here -->
 
 ## Skills
 
