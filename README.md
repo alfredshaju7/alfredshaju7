@@ -14,11 +14,9 @@
 
 ### About Me
 
-- 🌱 I’m currently learning **[specific technology or tool you are learning]**
+- 🌱 I’m currently learning **Advanced Full Stack Web development**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
-
-- 🤝 I’m looking for help with **[specific area you need help with]**
 
 - 📫 How to reach me **alfredshaju7@gmail.com**
 
